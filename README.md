@@ -1,4 +1,4 @@
-# beykentproject
+# beykent project
 ## bitirme projesi
 the project need nodejs v13.6.0 and npm 6.13.4 to work
 
