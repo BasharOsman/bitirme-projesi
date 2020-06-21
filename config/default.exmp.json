@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://<username>:<password>@mernstack-fyvra.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "you JWT secret ",
+    "email": "the site email <gmail>",
+    "emailpass": "email password",
+    "emailreceive": "the email that will receive the message"
+}
